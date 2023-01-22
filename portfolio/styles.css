@@ -2,7 +2,7 @@ nav {
     background-color: red;
     color: white;
     font-size: x-large;
-    text-align: right;
+    text-align: left;
     display: flex;
 }
 
@@ -15,7 +15,16 @@ ul {
     color: white;
     list-style-type: none;
 }
+h2{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
 
 nav li {
     display: inline;
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
 }
