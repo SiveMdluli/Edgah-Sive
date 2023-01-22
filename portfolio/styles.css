@@ -1,0 +1,21 @@
+nav {
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    text-align: right;
+    display: flex;
+}
+
+body {
+    background-color: #000;
+
+}
+
+ul {
+    color: white;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
